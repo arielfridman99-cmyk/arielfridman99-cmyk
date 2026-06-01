@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on learning Github!
+- 🌱 I’m currently learning HTML, CSS, Javascript and more!
+
 <!--
 **arielfridman99-cmyk/arielfridman99-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
